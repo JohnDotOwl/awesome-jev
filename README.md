@@ -6,7 +6,7 @@ Jev takes a state plus typed questions (Choice, Score, Noul) and returns typed a
 
 Not affiliated with TypeSafe AI.
 
-318 entries · last refreshed 2026-09-18
+319 entries · last refreshed 2026-09-18
 
 ## Contents
 
@@ -380,6 +380,7 @@ Other public directories of Jev projects.
 - [awesome-jev](https://github.com/yibie/awesome-jev) - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 - [awesome-jev](https://github.com/AnotiaWang/awesome-jev) - A curated list of awesome Jev / TypeSafe System One applications, libraries, and resources.
 - [awesome-jev](https://github.com/hellogumbo/awesome-jev) ([site](https://awesomejev.com)) - A community directory of projects built on Jev, TypeSafe AI's System One model.
+- [awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) - CC0, awesome-lint clean list of Jev projects sorted by what you would install, with a short know-before-you-build section on the limits.
 - [awesome-jev](https://github.com/sontakey/awesome-jev) - Unofficial list of insanely useful TypeSafe AI Jev / System One projects.
 - [awesome-jev](https://github.com/OmniJev/awesome-jev) ([site](https://omnijev.github.io/awesome-jev/)) - Papers, open reproductions and independent evaluations behind System One models and Jev.
 - [awesome-jev-use-cases](https://github.com/SeeAPI/awesome-jev-use-cases) ([site](https://www.seeapi.com/)) - Explore real-world use cases and projects built with TypeSafe AI's Jev: content moderation, AI agents, model routing, and semantic search. Curated by SeeAPI.
