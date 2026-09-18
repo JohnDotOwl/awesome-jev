@@ -380,7 +380,6 @@ Other public directories of Jev projects.
 - [awesome-jev](https://github.com/yibie/awesome-jev) - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 - [awesome-jev](https://github.com/AnotiaWang/awesome-jev) - A curated list of awesome Jev / TypeSafe System One applications, libraries, and resources.
 - [awesome-jev](https://github.com/hellogumbo/awesome-jev) ([site](https://awesomejev.com)) - A community directory of projects built on Jev, TypeSafe AI's System One model.
-- [awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) - CC0, awesome-lint clean list of Jev projects sorted by what you would install, with a short know-before-you-build section on the limits.
 - [awesome-jev](https://github.com/sontakey/awesome-jev) - Unofficial list of insanely useful TypeSafe AI Jev / System One projects.
 - [awesome-jev](https://github.com/OmniJev/awesome-jev) ([site](https://omnijev.github.io/awesome-jev/)) - Papers, open reproductions and independent evaluations behind System One models and Jev.
 - [awesome-jev-use-cases](https://github.com/SeeAPI/awesome-jev-use-cases) ([site](https://www.seeapi.com/)) - Explore real-world use cases and projects built with TypeSafe AI's Jev: content moderation, AI agents, model routing, and semantic search. Curated by SeeAPI.
@@ -388,6 +387,7 @@ Other public directories of Jev projects.
 - [awesome-jev](https://github.com/rhc98/awesome-jev) ([site](https://awesome-jev.xyz)) - Projects built on Jev (TypeSafe AI's System One model), curated by Jev itself.
 - [awesome-jev](https://github.com/fatwang2/awesome-jev) - A source-backed Jev project directory with a reusable Jev-only GitHub review workflow.
 - [awesome-jev-prompt](https://github.com/yangzhou-chaofan/awesome-jev-prompt) - Latest top 100 showcases for jev (keep updating) from x / github / latest sources.
+- [awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) - CC0, awesome-lint clean list of Jev projects sorted by what you would install, with a short know-before-you-build section on the limits.
 - [awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) ([site](https://typesafe.ai)) - Jev / TypeSafe System One 中文精选列表：官方资料、SDK、爆款应用、Agent 工具、开源复现与独立评测，附中文上手指南，每日自动收录 GitHub 热门项目。
 
 ## Contributing
