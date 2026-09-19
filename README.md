@@ -6,7 +6,7 @@ Jev takes a state plus typed questions (Choice, Score, Noul) and returns typed a
 
 Not affiliated with TypeSafe AI.
 
-318 entries · last refreshed 2026-09-18
+323 entries · last refreshed 2026-09-18
 
 ## Contents
 
@@ -144,11 +144,14 @@ Gates, routers, reviewers, MCP servers, and skills for coding agents.
 - [askjev](https://github.com/pZacca/askjev) - Unofficial MCP server for Jev (Typesafe AI).
 - [Augustus](https://github.com/24601/Augustus) - Agent skill: design judgment-assisted systems with TypeSafe Jev (System One). Maps Choice/Score/Noul onto decision theory, reranking, and routing. Composition algebra, question design, validation gates. MIT.
 - [hermes-jev](https://github.com/keeltrace/hermes-jev) - Typed System One decisions, ranking, verification, and an opt-in Hermes tool gate using TypeSafe Jev.
+- [jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence and, only when files changed with no passing check since, spends one four-question Jev call to block an unverified done, failing open on every error path.
+- [jev-commit](https://github.com/valentynkit/jev-commit) - Pre-commit hook where one Jev call judges whether the commit message matches the staged diff, plus debug leftovers, unmentioned work, and a credential check that blocks on a detected secret.
 - [jev-mcp](https://github.com/minhgv/jev-mcp) - TypeSafe Jev MCP decision layer for coding agents and CI.
 - [jev-mobile](https://github.com/Friedjof/jev-mobile) - Fast structured Android control loops with TypeSafe Jev and Mobile MCP.
 - [jev-pref](https://github.com/doeixd/jev-pref) - Jev-powered user-preference code reviewer setup (skills.sh-installable agent skill).
 - [jev-review-action](https://github.com/fatwang2/jev-review-action) - Configurable GitHub submission review and PR classification with TypeSafe Jev. No text-generation model.
 - [jev-router-playground](https://github.com/hugo-alves/jev-router-playground) ([site](https://kvhx37ziab90c.space.minimax.io)) - Interactive playground for testing Jev model-routing decisions against OpenRouter models.
+- [jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that answers a plain-language question about the buffer by splitting it into functions with Treesitter, scoring each with Jev, and ranking the answers in quickfix.
 - [jevify](https://github.com/altryne/jevify) ([site](https://thursdai.news)) - An agent skill to discover TypeSafe Jev opportunities, design typed questions, and learn from recent community experiments.
 - [jevwire](https://github.com/Brainwires/jevwire) - Jev decision layer for agents: MCP server, embeddable DecisionModel library, and an escalate-only Claude Code plugin (TypeSafe AI's Jev).
 - [limpet](https://github.com/noplan-inc/limpet) - A Stop hook that stops your coding agent from stopping too early. Plain-language rules, judged by jev.
@@ -276,6 +279,7 @@ Products, CLIs, and pipelines that call Jev.
 - [jev-plays-pokemon](https://github.com/milanboers/jev-plays-pokemon) - Playing Pokemon Red using TypeSafe Jev.
 - [jev-report](https://github.com/HackSing/jev-report) - 发明 RLHF 的人，这次做了个不会说话的模型：Jev 独立研究报告。52 页 PDF + 50 条中文实测复现包 + 143 条可回溯数据表.
 - [Jev-Rug-Checker](https://github.com/BradMyrick/Jev-Rug-Checker) - A multi-chain EVM token screener built on Jev by @TypeSafe AI.
+- [jev-skip](https://github.com/valentynkit/jev-skip) - Browser extension that reads a video's caption track and paints a per-segment sponsor probability on the YouTube seek bar before the intro ends, with no crowd database.
 - [jev-system-one](https://github.com/heaven-hm/jev-system-one) - A polished OpenAI + TypeSafe Jev terminal interface for answers with transparent decision reports.
 - [jev-taxi-dispatch](https://github.com/bahramzada/jev-taxi-dispatch) - Real-vaxt taksi dispetçerlik simulyasiyası — TypeSafe JEV (System One) modeli ilə.
 - [jev-test](https://github.com/JustinRoderick/jev-test) - Testing typesafe.ai new model Jev.
@@ -324,6 +328,7 @@ Games and simulations with Jev making the moves.
 - [jev-play-ping-pong](https://github.com/Icohen007/jev-play-ping-pong) ([site](https://indispensable-lingonberry-hot.julius.site/)) - Jev plays browser table tennis in real time: structured telemetry, typed decisions, ordinary Chrome inputs, and auditable evidence.
 - [jev-plays-2048](https://github.com/joshbla/jev-plays-2048) - A visible 2048 experiment powered by TypeSafe.
 - [jev-plays-doom](https://github.com/tirukovelamanoj/jev-plays-doom) - A System One model driving the game through structured state, no pixels.
+- [jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Pokemon Red on PyBoy where code owns the route and the arithmetic, Jev picks only at branches, and every battle turn logs a faint prediction scored by Brier against what the RAM says.
 - [jev-snake](https://github.com/iammusham/jev-snake) - An experimental Snake environment where the game engine owns deterministic rules and TypeSafe AI's Jev makes the movement decision from structured state on every tick.
 - [jev-tetris](https://github.com/MachineLearning-Nerd/jev-tetris) - A visual TypeSafe demo where Jev chooses verified Tetris placements.
 - [river-run-typesafe](https://github.com/ashaazami/river-run-typesafe) - River shooter game in Python, inspired by Atari's River Raid, played by a TypeSafe AI pilot.
