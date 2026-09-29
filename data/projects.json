@@ -59,6 +59,17 @@
   ],
   "projects": [
     {
+      "name": "Jev in the Wild",
+      "repo": null,
+      "site": null,
+      "url": "https://arxiv.org/abs/2609.30216",
+      "description": "Data-driven survey of 2,170 public GitHub Jev projects, covering early ecosystem growth, application domains, and decision-use patterns.",
+      "category": "articles",
+      "language": null,
+      "stars": 0,
+      "added": "2026-09-29"
+    },
+    {
       "name": "awesome-jev-by-typesafe",
       "repo": "Anil-matcha/awesome-jev-by-typesafe",
       "site": "https://typesafe.ai/",
