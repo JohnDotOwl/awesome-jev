@@ -6,7 +6,7 @@ Jev takes a state plus typed questions (Choice, Score, Noul) and returns typed a
 
 Not affiliated with TypeSafe AI.
 
-318 entries · last refreshed 2026-09-18
+319 entries · last refreshed 2026-09-18
 
 ## Contents
 
@@ -20,6 +20,7 @@ Not affiliated with TypeSafe AI.
 - [Demos and playgrounds](#demos-and-playgrounds)
 - [Benchmarks and research](#benchmarks-and-research)
 - [Other lists](#other-lists)
+- [Articles](#articles)
 
 ## Official
 
@@ -388,6 +389,12 @@ Other public directories of Jev projects.
 - [awesome-jev](https://github.com/fatwang2/awesome-jev) - A source-backed Jev project directory with a reusable Jev-only GitHub review workflow.
 - [awesome-jev-prompt](https://github.com/yangzhou-chaofan/awesome-jev-prompt) - Latest top 100 showcases for jev (keep updating) from x / github / latest sources.
 - [awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) ([site](https://typesafe.ai)) - Jev / TypeSafe System One 中文精选列表：官方资料、SDK、爆款应用、Agent 工具、开源复现与独立评测，附中文上手指南，每日自动收录 GitHub 热门项目。
+
+## Articles
+
+Launch posts, explainers, and independent write-ups.
+
+- [Jev in the Wild](https://arxiv.org/abs/2609.30216) - Data-driven survey of 2,170 public GitHub Jev projects, covering early ecosystem growth, application domains, and decision-use patterns.
 
 ## Contributing
 
